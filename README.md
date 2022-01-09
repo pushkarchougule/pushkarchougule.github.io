@@ -1,9 +1,7 @@
 ## My Data Science Portfolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### [Github Data Science Portfolio](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio)
-
 
 
 ### Below projects are part of my Data Science portfolio
