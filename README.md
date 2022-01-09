@@ -10,6 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 -  [Airline Safety - Facts vs. Myths - Data Visualization and Storytelling](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Airline%20Safety)
 
+<p align="justify">Airline Safety study aims to verify and present the safety facts for air travels and how it compares with other modes of transportation. The study highlights how the air travel has made major improvements in terms of safety over the past few decades and is in fact the safest form of travel</p>
+
 -  [Auto Insurance Claims Exploratory Data Analysis using Python]
 
 -  [COVID-19 Cases and Vaccination Supplies Study - Data Wrangling and Analytics](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/COVID-19%20Cases%20and%20Vaccination%20supplies%20study)
@@ -29,9 +31,3 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pchougule-ms/pchougule-ms.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
