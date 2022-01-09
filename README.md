@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 -  [Airline Safety - Facts vs. Myths - Data Visualization and Storytelling](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Airline%20Safety)
 
-<p align="justify">Airline Safety study aims to verify and present the safety facts for air travels and how it compares with other modes of transportation. The study highlights how the air travel has made major improvements in terms of safety over the past few decades and is in fact the safest form of travel</p>
+<p align="center">Airline Safety study aims to verify and present the safety facts for air travels and how it compares with other modes of transportation. The study highlights how the air travel has made major improvements in terms of safety over the past few decades and is in fact the safest form of travel</p>
 
 -  [Auto Insurance Claims Exploratory Data Analysis using Python]
 
