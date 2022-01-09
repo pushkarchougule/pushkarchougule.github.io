@@ -5,8 +5,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### [Github Data Science Portfolio](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio)
 
 
-```markdown
-Below projects are part of my Data Science portfolio
+
+### Below projects are part of my Data Science portfolio
 
 -  [Airline Safety - Facts vs. Myths - Data Visualization and Storytelling](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Airline%20Safety)
 
@@ -22,6 +22,8 @@ Below projects are part of my Data Science portfolio
 
 -  [Telecom Company Customer Churn Predictions](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Telecom%20Company%20Customer%20Churn%20Predictions)
 
+
+```markdown
 
 **Bold** and _Italic_ and `Code` text
 
