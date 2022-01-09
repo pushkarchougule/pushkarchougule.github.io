@@ -1,25 +1,27 @@
 ## My Data Science Portfolio
 
-You can use the [editor on GitHub](https://github.com/pchougule-ms/pchougule-ms.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### [Github Data Science Portfolio](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Below projects are part of my Data Science portfolio
 
-# Header 1
-## Header 2
-### Header 3
+-  [Airline Safety - Facts vs. Myths - Data Visualization and Storytelling](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Airline%20Safety)
 
-- Bulleted
-- List
+-  [Auto Insurance Claims Exploratory Data Analysis using Python]
 
-1. Numbered
-2. List
+-  [COVID-19 Cases and Vaccination Supplies Study - Data Wrangling and Analytics](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/COVID-19%20Cases%20and%20Vaccination%20supplies%20study)
+
+-  [Credit Card Lead Predictions]
+
+-  [Current Day Weather Forecast](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Current%20Day%20Weather%20Forecast)
+
+-  [Housing Prices Exploratory Data Analysis using R](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Housing%20Prices%20EDA)
+
+-  [Telecom Company Customer Churn Predictions](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Telecom%20Company%20Customer%20Churn%20Predictions)
+
 
 **Bold** and _Italic_ and `Code` text
 
@@ -31,7 +33,3 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pchougule-ms/pchougule-ms.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
