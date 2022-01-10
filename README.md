@@ -26,11 +26,20 @@
 
 <h3 align="center"> Auto Insurance Claims Exploratory Data Analysis using Python </h3>
 
+<p align="justify"> As a part of this project, I took an opportunity to perform exploratory data analysis (EDA) using Python. I used the car insurance claims dataset available on Kaggle (https://www.kaggle.com/srinivasankh/insurance-claims-dataset). With this project, I tried to understand the factors to identify the drivers involved in accidents – the correlation of these factors in terms of accident susceptible drivers and the respective claim amounts for the accidents involved.</p>
+
+<p align="justify">Exploratory Data Analysis showed that some of the variables like Age (certain age groups ranging between 26 years to 50 years), certain auto makes like (Dodge, Ford), Certain auto model (E400, Escape), certain occupations (machine op-inspectors, transport-moving high likelihood and handlers-cleaners as low likelihood) have statistically significant correlation with Total claim amount field. The other variables explored like Insured Gender, Insured Relationship did not hold much statistical significance. Also the analysis based on home state vs. accident state indicated that drivers driving more frequently in other states (not in home / policy state) could be susceptible to accidents possibly due to unknown driving conditions.</p>
+
+
 <br/>
 
 
 
 <h3 align="center"> <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Credit%20Card%20Lead%20Predictions"> Credit Card Lead Predictions </a></h3>
+
+<p align="justify">As a part of this project, I followed CRISP-DM method to execute the end to end Data Science project, involving Credit Card Lead Predictions. This involved Business Understanding, Data understanding and gathering, Data Wrangling and Preparation, Machine Learning Modeling and Evaluation and Finally the working system to prepare the final predictions with desired accuracy.
+
+<p align="justify">A Private Bank offers variety of products like Checking / Savings accounts, investment products, credit products etc. The bank intends to cross-sell products to its existing customer base via different channels like emails, telephone calls, recommendations on online banking interfaces like mobile apps etc. As a part of current business opportunity, bank plans on identifying the potential customers from the list of eligible customers. </p>
 
 <br/>
 
