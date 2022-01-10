@@ -30,7 +30,7 @@
 
 
 
-<h3 align="center"> Credit Card Lead Predictions </h3>
+<h3 align="center"> <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Credit%20Card%20Lead%20Predictions"> Credit Card Lead Predictions </a></h3>
 
 <br/>
 
