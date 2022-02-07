@@ -43,7 +43,7 @@
 <h3 align="center"> <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Credit%20Card%20Lead%20Predictions"> Credit Card Lead Predictions </a></h3>
 <img src="images/Credit_Card_financialwellness_utah_edublogposts2020Junenewsletter_php.jpg">
 
-<p align="justify">As a part of this project, I followed CRISP-DM method to execute the end to end Data Science project, involving Credit Card Lead Predictions. This involved Business Understanding, Data understanding and gathering, Data Wrangling and Preparation, Machine Learning Modeling and Evaluation and Finally the working system to prepare the final predictions with desired accuracy.
+<p align="justify">As a part of this project, I followed CRISP-DM method to execute the end to end Data Science project, involving Credit Card Lead Predictions. This involved Business Understanding, Data understanding and gathering, Data Wrangling and Preparation, Machine Learning Modeling and Evaluation and Finally the working system to prepare the final predictions with desired accuracy.</p>
 
 <p align="justify">A Private Bank offers variety of products like Checking / Savings accounts, investment products, credit products etc. The bank intends to cross-sell products to its existing customer base via different channels like emails, telephone calls, recommendations on online banking interfaces like mobile apps etc. As a part of current business opportunity, bank plans on identifying the potential customers from the list of eligible customers. </p>
 
@@ -52,6 +52,7 @@
 
 
 <h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Current%20Day%20Weather%20Forecast">Current Day Weather Forecast </a></h3>
+<img src="images/weather_image_https_newsonair.gov.in_News_title_Weather-conditions-of-various-places-across-country&id_390362.jpg">
 
 <p align="justify">This project was the opportunity to create a Python based user interactive application to present the Current Days weather forecast for the users based on the zip code or the location in the form of City / City, State / City, State, Country. This was the very interesting opportunity when initially starting the journey in the field of Data Science.</p>
 
