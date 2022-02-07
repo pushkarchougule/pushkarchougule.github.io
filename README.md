@@ -21,7 +21,7 @@
 
 <h3 align="center"> Auto Insurance Claims Exploratory Data Analysis using Python </h3>
 
-<p align="justify"> As a part of this project, I took an opportunity to perform exploratory data analysis (EDA) using Python. I used the car insurance claims dataset available on Kaggle (https://www.kaggle.com/srinivasankh/insurance-claims-dataset). With this project, I tried to understand the factors to identify the drivers involved in accidents – the correlation of these factors in terms of accident susceptible drivers and the respective claim amounts for the accidents involved.</p>
+<p align="justify"> As a part of this project, I took an opportunity to perform exploratory data analysis (EDA) using Python. I used the car insurance claims dataset available on Kaggle. With this project, I tried to understand the factors to identify the drivers involved in accidents – the correlation of these factors in terms of accident susceptible drivers and the respective claim amounts for the accidents involved.</p>
 
 <p align="justify">Exploratory Data Analysis showed that some of the variables like Age (certain age groups ranging between 26 years to 50 years), certain auto makes like (Dodge, Ford), Certain auto model (E400, Escape), certain occupations (machine op-inspectors, transport-moving high likelihood and handlers-cleaners as low likelihood) have statistically significant correlation with Total claim amount field. The other variables explored like Insured Gender, Insured Relationship did not hold much statistical significance. Also the analysis based on home state vs. accident state indicated that drivers driving more frequently in other states (not in home / policy state) could be susceptible to accidents possibly due to unknown driving conditions.</p>
 
@@ -63,6 +63,7 @@
 
 
 <h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Housing%20Prices%20EDA"> Housing Prices Exploratory Data Analysis using R </a></h3>
+<img src="images/housing_https_miro.medium.com_max_1400_1_Zr0rsnWzE0A_fqCHfDndMA.jpg"/>
 
 <p align="justify">With the in-demand housing market and increasing prices, Real estate / Housing prices topic had gotten my interest. Along with external financial market conditions in a country, various factors contribute to the sale prices of houses / residential properties like size of property, living area, the localities / neighborhood, age of property, number of rooms, building quality to name a few.</p>
 
