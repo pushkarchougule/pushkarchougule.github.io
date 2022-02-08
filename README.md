@@ -29,7 +29,7 @@
 
 
 <h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Current%20Day%20Weather%20Forecast">Current Day Weather Forecast </a></h3>
-<img src="images/weather_image_https_newsonair.gov.in_News_title_Weather-conditions-of-various-places-across-country&id_390362.jpg">
+<img src="images/weather_image_https_newsonair.gov.in_News_title_Weather-conditions-of-various-places-across-country&id_390362.jpg"> <br/>
 
 
 
@@ -39,11 +39,11 @@
 
 
 <h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Sales%20Forecast%20for%20Superstore"> Sales Forecast for Superstore </a></h3>
-<img src="images/Sales-Forecast_https_sopsa.org_articles_the-complete-guide-to-building-a-sales-forecast.jpg">
+<img src="images/Sales-Forecast_https_sopsa.org_articles_the-complete-guide-to-building-a-sales-forecast.jpg"> <br/>
 
 
 
 <h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Sales%20Predictions"> Telecom Company Customer Churn Predictions </a></h3>
-<img src="images/Telco_customer_churn_https_www.tibco.com_blog_wp-content_uploads_2013_01_17450178.cms_.jpg"/>
+<img src="images/Telco_customer_churn_https_www.tibco.com_blog_wp-content_uploads_2013_01_17450178.cms_.jpg"/> <br/>
 
 
