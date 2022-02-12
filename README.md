@@ -13,7 +13,7 @@
 
 
 
-<h3 align="center"> <u>2. Auto Insurance Claims Exploratory Data Analysis using Python</u> </h3>
+<h3 align="center"> <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Auto%20Insurance%20Claims%20EDA%20using%20Python"> <u>2. Auto Insurance Claims Exploratory Data Analysis using Python</u> </a></h3>
 <img align="center" src="images/car-insurance_httpsblog.servicemarket.comwp-contentuploads201610everything-you-need-to-know-about-car-insurance-2.jpg" width="600" height="400"/> <br/>
 
 
