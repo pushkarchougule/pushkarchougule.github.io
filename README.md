@@ -24,26 +24,26 @@
 
 
 <h3 align="center"> <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Credit%20Card%20Lead%20Predictions"> Credit Card Lead Predictions </a></h3>
-<img src="images/Credit_Card_financialwellness_utah_edublogposts2020Junenewsletter_php.jpg"> <br/>
+<img align="center" src="images/Credit_Card_financialwellness_utah_edublogposts2020Junenewsletter_php.jpg"  width="500" height="400"/> <br/>
 
 
 
 <h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Current%20Day%20Weather%20Forecast">Current Day Weather Forecast </a></h3>
-<img src="images/weather_image_https_newsonair.gov.in_News_title_Weather-conditions-of-various-places-across-country&id_390362.jpg"> <br/>
+<img align="center" src="images/weather_image_https_newsonair.gov.in_News_title_Weather-conditions-of-various-places-across-country&id_390362.jpg" width="500" height="400"/> <br/>
 
 
 
 <h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Housing%20Prices%20EDA"> Housing Prices Exploratory Data Analysis using R </a></h3>
-<img src="images/housing_https_miro.medium.com_max_1400_1_Zr0rsnWzE0A_fqCHfDndMA.jpg"/> <br/>
+<img align="center" src="images/housing_https_miro.medium.com_max_1400_1_Zr0rsnWzE0A_fqCHfDndMA.jpg" width="500" height="400"/> <br/>
 
 
 
 <h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Sales%20Forecast%20for%20Superstore"> Sales Forecast for Superstore </a></h3>
-<img src="images/Sales-Forecast_https_sopsa.org_articles_the-complete-guide-to-building-a-sales-forecast.jpg"> <br/>
+<img align="center" src="images/Sales-Forecast_https_sopsa.org_articles_the-complete-guide-to-building-a-sales-forecast.jpg" width="500" height="400"/> <br/>
 
 
 
 <h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Sales%20Predictions"> Telecom Company Customer Churn Predictions </a></h3>
-<img src="images/Telco_customer_churn_https_www.tibco.com_blog_wp-content_uploads_2013_01_17450178.cms_.jpg"/> <br/>
+<img align="center" src="images/Telco_customer_churn_https_www.tibco.com_blog_wp-content_uploads_2013_01_17450178.cms_.jpg" width="500" height="400"/> <br/>
 
 
