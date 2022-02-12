@@ -14,7 +14,7 @@
 
 
 <h3 align="center"> Auto Insurance Claims Exploratory Data Analysis using Python </h3>
-<img src="images/car-insurance_httpsblog.servicemarket.comwp-contentuploads201610everything-you-need-to-know-about-car-insurance-2.jpg"> <br/>
+<img align="center" src="images/car-insurance_httpsblog.servicemarket.comwp-contentuploads201610everything-you-need-to-know-about-car-insurance-2.jpg" width="500" height="400"/> <br/>
 
 
 
