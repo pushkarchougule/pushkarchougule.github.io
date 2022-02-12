@@ -32,6 +32,10 @@
 <img align="center" src="images/weather_image_https_newsonair.gov.in_News_title_Weather-conditions-of-various-places-across-country&id_390362.jpg" width="600" height="400"/> <br/>
 
 
+<h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Designing%20More%20Effective%20Influenza%20Vaccines%20-%20Group%20research%20study"> Designing More Effective Influenza Vaccines - Group research study </a></h3>
+<img align="center" src="" width="600" height="400"/> <br/>
+
+
 
 <h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Housing%20Prices%20EDA"> Housing Prices Exploratory Data Analysis using R </a></h3>
 <img align="center" src="images/housing_https_miro.medium.com_max_1400_1_Zr0rsnWzE0A_fqCHfDndMA.jpg" width="600" height="400"/> <br/>
