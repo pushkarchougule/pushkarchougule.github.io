@@ -28,12 +28,12 @@
 
 
 
-<h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Current%20Day%20Weather%20Forecast">Current Day Weather Forecast </a></h3>
+<h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Current%20Day%20Weather%20Forecast"> Current Day Weather Forecast </a></h3>
 <img align="center" src="images/weather_image_https_newsonair.gov.in_News_title_Weather-conditions-of-various-places-across-country&id_390362.jpg" width="600" height="400"/> <br/>
 
 
 <h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Designing%20More%20Effective%20Influenza%20Vaccines%20-%20Group%20research%20study"> Designing More Effective Influenza Vaccines - Group research study </a></h3>
-<img align="center" src="" width="600" height="400"/> <br/>
+<img align="center" src="images/Flu_Vaccine_https_childrenshealthdefense.org_news_the-new-york-times-vs-the-science-on-the-flu-shot.jpg" width="600" height="400"/> <br/>
 
 
 
