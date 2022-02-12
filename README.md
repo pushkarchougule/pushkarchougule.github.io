@@ -6,13 +6,13 @@
 
 
 
-<h3 align="center"> <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Airline%20Safety"> Airline Safety - Facts vs. Myths </a></h3>
+<h3 align="center"> <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Airline%20Safety"> <u>Airline Safety - Facts vs. Myths</u> </a></h3>
 <img align="center" src="images/AirSafety_flightsafety.org_resource_aviation-safety-network.jpg" width="600" height="400"/> <br/>
 
 
 
 
-<h3 align="center"> Auto Insurance Claims Exploratory Data Analysis using Python </h3>
+<h3 align="center"> <u>Auto Insurance Claims Exploratory Data Analysis using Python</u> </h3>
 <img align="center" src="images/car-insurance_httpsblog.servicemarket.comwp-contentuploads201610everything-you-need-to-know-about-car-insurance-2.jpg" width="600" height="400"/> <br/>
 
 
