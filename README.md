@@ -62,6 +62,7 @@
 
 
 <h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Case%20Studies%20-%20Individual"> <u>Case Studies</u> </a></h3>
+<img align="center" src="images/Case_studies_https_technologyadvice.com_blog_marketing_write-case-studies.jpg" width="600" height="400"/> 
 <br/>
 
 
