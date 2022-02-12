@@ -19,7 +19,7 @@
 
 
 <h3 align="center"> <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/COVID-19%20Cases%20and%20Vaccination%20supplies%20study"> COVID-19 Cases and Vaccination Supplies Study </a></h3>
-<img src="images/covid_vaccine_study_https_www.yalemedicine.org_news_covid-19-vaccine-comparison.jpg"/> <br/>
+<img align="center" src="images/covid_vaccine_study_https_www.yalemedicine.org_news_covid-19-vaccine-comparison.jpg" width="600" height="400"/> <br/>
 
 
 
