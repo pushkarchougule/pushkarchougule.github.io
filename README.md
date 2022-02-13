@@ -49,13 +49,13 @@
 
 
 
-<h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Sales%20Predictions"> <u>8. Telecom Company Customer Churn Predictions</u> </a></h3>
+<h3 align="justify"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Sales%20Predictions"> <u>8. Telecom Company Customer Churn Predictions</u> </a></h3>
 <img align="center" src="images/Telco_customer_churn_https_www.tibco.com_blog_wp-content_uploads_2013_01_17450178.cms_.jpg" width="300" height="200"/> <br/>
 
 
 
 
-<h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Case%20Studies%20-%20Individual"> <u>9. Case Studies</u> </a></h3>
+<h3 align="justify"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Case%20Studies%20-%20Individual"> <u>9. Case Studies</u> </a></h3>
 <img align="center" src="images/Case_studies_https_technologyadvice.com_blog_marketing_write-case-studies.jpg" width="300" height="200"/> 
 <br/>
 
