@@ -2,7 +2,7 @@
 
 
 ## [Github Libraries for Data Science Portfolio](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio)
-**(Click on the project names to navigate to individual projects)**
+####<b>(Please click on the project names to navigate to individual projects)</b>
 
 
 
