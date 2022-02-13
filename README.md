@@ -8,7 +8,7 @@
 
 
 <h3 align="justify"> <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Airline%20Safety"> <u>1. Airline Safety - Facts vs. Myths</u> </a></h3>
-<img align="center" src="images/AirSafety_flightsafety.org_resource_aviation-safety-network.jpg" width="600" height="400"/> <br/>
+<img align="center" src="images/AirSafety_flightsafety.org_resource_aviation-safety-network.jpg" width="300" height="200"/> <br/>
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-<h2 align="justify"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Case%20Studies%20-%20Individual"> <u>9. Case Studies</u> </a></h2>
+<h3 align="justify"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Case%20Studies%20-%20Individual"> <u>9. Case Studies</u> </a></h3>
 <img align="center" src="images/Case_studies_https_technologyadvice.com_blog_marketing_write-case-studies.jpg" width="300" height="200"/> 
 <br/>
 
