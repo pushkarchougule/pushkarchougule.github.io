@@ -12,15 +12,20 @@
 <u>Airline Safety - Facts vs. Myths</u> <br></br>
 <img align="center" src="images/AirSafety_flightsafety.org_resource_aviation-safety-network.jpg" width="300" height="200"/>
 </a></h3>
+<br/>
 
 
 <p align="center">_____________________________________________________________________________________</p>
 
 
-<h3 align="justify"> <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Auto%20Insurance%20Claims%20EDA%20using%20Python"> <u>2. Auto Insurance Claims Exploratory Data Analysis using Python</u> </a></h3>
-<img align="center" src="images/car-insurance_httpsblog.servicemarket.comwp-contentuploads201610everything-you-need-to-know-about-car-insurance-2.jpg" width="300" height="200"/> <br/>
+<h3 align="center"> <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Auto%20Insurance%20Claims%20EDA%20using%20Python"> 
+<u>Auto Insurance Claims Exploratory Data Analysis using Python</u> <br></br>
+<img align="center" src="images/car-insurance_httpsblog.servicemarket.comwp-contentuploads201610everything-you-need-to-know-about-car-insurance-2.jpg" width="300" height="200"/> 
+</a></h3>
+<br/>
 
 
+<p align="center">_____________________________________________________________________________________</p>
 
 
 <h3 align="justify"> <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/COVID-19%20Cases%20and%20Vaccination%20supplies%20study"> <u>3. COVID-19 Cases and Vaccination Supplies Study</u> </a></h3>
