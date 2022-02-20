@@ -51,7 +51,9 @@
 <p align="center">__________________________________________________________________________________________</p>
 
 
-<h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Current%20Day%20Weather%20Forecast"> <u>5. Current Day Weather Forecast</u>
+<h3 align="center">
+<a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Current%20Day%20Weather%20Forecast">
+<u>Current Day Weather Forecast</u> <br></br>
 <img align="center" src="images/weather_image_https_newsonair.gov.in_News_title_Weather-conditions-of-various-places-across-country&id_390362.jpg" width="300" height="200"/>
 </a></h3>
 <br/>
@@ -60,8 +62,11 @@
 <p align="center">__________________________________________________________________________________________</p>
 
 
-<h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Housing%20Prices%20EDA%20using%20R"> <u>6. Housing Prices Exploratory Data Analysis using R</u> </a></h3>
+<h3 align="center">
+<a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Housing%20Prices%20EDA%20using%20R">
+<u>Housing Prices Exploratory Data Analysis using R</u>
 <img align="center" src="images/housing_https_miro.medium.com_max_1400_1_Zr0rsnWzE0A_fqCHfDndMA.jpg" width="300" height="200"/> 
+</a></h3>
 <br/>
 
 
