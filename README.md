@@ -64,7 +64,7 @@
 
 <h3 align="center">
 <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Housing%20Prices%20EDA%20using%20R">
-<u>Housing Prices Exploratory Data Analysis using R</u>
+<u>Housing Prices Exploratory Data Analysis using R</u> <br></br>
 <img align="center" src="images/housing_https_miro.medium.com_max_1400_1_Zr0rsnWzE0A_fqCHfDndMA.jpg" width="300" height="200"/> 
 </a></h3>
 <br/>
@@ -74,8 +74,12 @@
 
 
 
-<h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Sales%20Forecast%20for%20Superstore"> <u>7. Sales Forecast for Superstore</u> </a></h3>
-<img align="center" src="images/Sales-Forecast_https_sopsa.org_articles_the-complete-guide-to-building-a-sales-forecast.jpg" width="300" height="200"/> <br/>
+<h3 align="center">
+<a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Sales%20Forecast%20for%20Superstore">
+<u>Sales Forecast for Superstore</u> <br></br>
+<img align="center" src="images/Sales-Forecast_https_sopsa.org_articles_the-complete-guide-to-building-a-sales-forecast.jpg" width="300" height="200"/>
+</a></h3>
+<br/>
 
 
 <p align="center">__________________________________________________________________________________________</p>
