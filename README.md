@@ -5,11 +5,11 @@
 #### (Please click on the project names or images to navigate to individual projects)
 
 
-<p align="justify">____________________________________________________________________________________________________________________________</p>
+<p align="justify">___________________________________________________________________________________________________________</p>
 
 <h3 align="center">
 <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Airline%20Safety">
-<u>Airline Safety - Facts vs. Myths</u> <br></br>
+<u>Airline Safety - Facts vs. Myths</u> <br/>
 <img align="center" src="images/AirSafety_flightsafety.org_resource_aviation-safety-network.jpg" width="300" height="200"/>
 </a></h3>
 <br/>
@@ -20,7 +20,7 @@
 
 <h3 align="center">
 <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Auto%20Insurance%20Claims%20EDA%20using%20Python"> 
-<u>Auto Insurance Claims Exploratory Data Analysis using Python</u> <br></br>
+<u>Auto Insurance Claims Exploratory Data Analysis using Python</u> <br/>
 <img align="center" src="images/car-insurance_httpsblog.servicemarket.comwp-contentuploads201610everything-you-need-to-know-about-car-insurance-2.jpg" width="300" height="200"/> 
 </a></h3>
 <br/>
