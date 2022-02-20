@@ -86,16 +86,22 @@
 
 
 
-<h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Telecom%20Company%20Customer%20Churn%20Predictions"> <u>8. Telecom Company Customer Churn Predictions</u> </a></h3>
-<img align="center" src="images/Telco_customer_churn_https_www.tibco.com_blog_wp-content_uploads_2013_01_17450178.cms_.jpg" width="300" height="200"/> <br/>
+<h3 align="center">
+<a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Telecom%20Company%20Customer%20Churn%20Predictions"> <u>Telecom Company Customer Churn Predictions</u> <br></br>
+<img align="center" src="images/Telco_customer_churn_https_www.tibco.com_blog_wp-content_uploads_2013_01_17450178.cms_.jpg" width="300" height="200"/>
+</a></h3>
+<br/>
 
 
 <p align="center">__________________________________________________________________________________________</p>
 
 
 
-<h3 align="center"><a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Case%20Studies%20-%20Individual"> <u>9. Case Studies</u> </a></h3>
+<h3 align="center">
+<a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Case%20Studies%20-%20Individual">
+<u>Case Studies</u> <br></br>
 <img align="center" src="images/Case_studies_https_technologyadvice.com_blog_marketing_write-case-studies.jpg" width="300" height="200"/> 
+</a></h3>
 <br/>
 
 
