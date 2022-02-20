@@ -9,7 +9,7 @@
 
 <h3 align="center">
 <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Airline%20Safety">
-<u>Airline Safety - Facts vs. Myths</u> <br><p></p><br/>
+<u>Airline Safety - Facts vs. Myths</u> <br><p/><br/>
 <img align="center" src="images/AirSafety_flightsafety.org_resource_aviation-safety-network.jpg" width="300" height="200"/>
 </a></h3>
 
