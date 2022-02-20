@@ -2,10 +2,10 @@
 
 
 ## [Github Libraries for Data Science Portfolio](https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio)
-#### (Please click on the project names to navigate to individual projects)
+#### (Please click on the project names or images to navigate to individual projects)
 
 
-<p align="justify">____________________________________________________________________________________________________________________________</p>
+<p align="justify">_____________________________________________________________________________________________________________________________</p>
 
 <h3 align="center">
 <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Airline%20Safety">
