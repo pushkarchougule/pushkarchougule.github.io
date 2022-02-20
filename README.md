@@ -14,7 +14,6 @@
 </a></h3>
 <br/>
 
-
 <p align="center">__________________________________________________________________________________________</p>
 
 
@@ -25,17 +24,15 @@
 </a></h3>
 <br/>
 
-
 <p align="center">__________________________________________________________________________________________</p>
 
 
 <h3 align="center">
 <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/COVID-19%20Cases%20and%20Vaccination%20supplies%20study"> 
-<u>COVID-19 Cases and Vaccination Supplies Study</u> <br></br>
+<u>COVID-19 Cases and Vaccination Supplies Study</u> <br/>
 <img align="center" src="images/covid_vaccine_study_https_www.yalemedicine.org_news_covid-19-vaccine-comparison.jpg" width="300" height="200"/>
 </a></h3>
 <br/>
-
 
 <p align="center">__________________________________________________________________________________________</p>
 
@@ -47,7 +44,6 @@
 </a></h3>
 <br/>
 
-
 <p align="center">__________________________________________________________________________________________</p>
 
 
@@ -58,7 +54,6 @@
 </a></h3>
 <br/>
 
-
 <p align="center">__________________________________________________________________________________________</p>
 
 
@@ -68,7 +63,6 @@
 <img align="center" src="images/housing_https_miro.medium.com_max_1400_1_Zr0rsnWzE0A_fqCHfDndMA.jpg" width="300" height="200"/> 
 </a></h3>
 <br/>
-
 
 <p align="center">__________________________________________________________________________________________</p>
 
@@ -81,7 +75,6 @@
 </a></h3>
 <br/>
 
-
 <p align="center">__________________________________________________________________________________________</p>
 
 
@@ -91,7 +84,6 @@
 <img align="center" src="images/Telco_customer_churn_https_www.tibco.com_blog_wp-content_uploads_2013_01_17450178.cms_.jpg" width="300" height="200"/>
 </a></h3>
 <br/>
-
 
 <p align="center">__________________________________________________________________________________________</p>
 
@@ -103,7 +95,6 @@
 <img align="center" src="images/Case_studies_https_technologyadvice.com_blog_marketing_write-case-studies.jpg" width="300" height="200"/> 
 </a></h3>
 <br/>
-
 
 <p align="center">__________________________________________________________________________________________</p>
 
