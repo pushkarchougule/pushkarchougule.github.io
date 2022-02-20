@@ -5,12 +5,16 @@
 #### (Please click on the project names to navigate to individual projects)
 
 
+<p align="justify">_________________________________________________________________________________________________________________________________________________________</p>
+
+<h3 align="center">
+<a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Airline%20Safety">
+<u>Airline Safety - Facts vs. Myths</u> <br></br>
+<img align="center" src="images/AirSafety_flightsafety.org_resource_aviation-safety-network.jpg" width="300" height="200"/>
+</a></h3>
 
 
-<h3 align="justify"> <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Airline%20Safety"> <u>1. Airline Safety - Facts vs. Myths</u> </a></h3>
-<img align="center" src="images/AirSafety_flightsafety.org_resource_aviation-safety-network.jpg" width="300" height="200"/> <br/>
-
-
+<p align="center">_____________________________________________________________________________________</p>
 
 
 <h3 align="justify"> <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Auto%20Insurance%20Claims%20EDA%20using%20Python"> <u>2. Auto Insurance Claims Exploratory Data Analysis using Python</u> </a></h3>
