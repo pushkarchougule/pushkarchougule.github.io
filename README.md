@@ -12,7 +12,6 @@
 <u>Airline Safety - Facts vs. Myths</u><br/>
 <img align="center" src="images/AirSafety_flightsafety.org_resource_aviation-safety-network.jpg" width="300" height="200"/>
 </a></h3>
-<br/>
 
 <p align="center">__________________________________________________________________________________________</p>
 
@@ -22,7 +21,6 @@
 <u>Auto Insurance Claims Exploratory Data Analysis using Python</u><br/>
 <img align="center" src="images/car-insurance_httpsblog.servicemarket.comwp-contentuploads201610everything-you-need-to-know-about-car-insurance-2.jpg" width="300" height="200"/> 
 </a></h3>
-<br/>
 
 <p align="center">__________________________________________________________________________________________</p>
 
