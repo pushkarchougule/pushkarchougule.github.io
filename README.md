@@ -5,7 +5,7 @@
 #### (Please click on the project names to navigate to individual projects)
 
 
-<p align="justify">________________________________________________________________________________________________________________________________</p>
+<p align="justify">____________________________________________________________________________________________________________________________</p>
 
 <h3 align="center">
 <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Airline%20Safety">
