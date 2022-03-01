@@ -74,7 +74,7 @@
 
 <h3 align="center">
 <a href="https://github.com/pchougule-ms/pchougule-ms/tree/main/Data%20Science%20Portfolio/Sentiment%20Analysis">
-<u>Baby Products Sentiment Analysis</u> <p/><br/>
+<u>Sentiment Analysis</u> <p/><br/>
 <img align="center" src="images/Sentiment_Analysis_https_www.slidegeeks.com_shapes_product_customer-sentiment-analysis-green-red-and-yellow-faces-ppt-powerpoint-presentation-ideas-layout.jpg" width="300" height="200"/>
 </a></h3>
 
